@@ -27,6 +27,7 @@
  
     NOTA : La carpeta de dataset_separado se crea al ejecutar el script Partir_dataset.py. 
 
+```
 .
 ├── Caracteristicas_extraidas               <- Se almacenan las características extraídas dependiendo del filtro
 │   ├── Composicion                         <- Características de cada registro usando el filtro compuesto.
@@ -56,5 +57,5 @@
 ├── README.md
 ├── Reporte_de_ejecuciones.pdf
 └── requerimientos.txt
+```
 
-14 directories, 1048 files
